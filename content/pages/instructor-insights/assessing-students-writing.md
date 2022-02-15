@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
 title: Assessing Students' Writing
 uid: dba6bd50-ff19-6b59-7ec2-4da9237716f9

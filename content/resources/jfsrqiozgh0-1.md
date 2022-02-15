@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-421-atomic-and-optical-physics-i-spring-2014/2956fd532f1fa0e6ad24942397ba34d5_JFSRqIozgh0.pdf
+file: /media/courses/8-421-atomic-and-optical-physics-i-spring-2014/2956fd532f1fa0e6ad24942397ba34d5_JFSRqIozgh0.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 2956fd53-2f1f-a0e6-ad24-942397ba34d5

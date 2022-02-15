@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-421-atomic-and-optical-physics-i-spring-2014/a9663a9f80aaa14f964b1616dd63575c_TcvY8Nt0ZGA.srt
+file: /media/courses/8-421-atomic-and-optical-physics-i-spring-2014/a9663a9f80aaa14f964b1616dd63575c_TcvY8Nt0ZGA.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: a9663a9f-80aa-a14f-964b-1616dd63575c

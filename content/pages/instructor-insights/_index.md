@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
 ---
@@ -54,20 +56,6 @@ This course may be applied toward a doctoral degree in physics with the approval
 ### Offered
 
 Atomic physics is taught every spring semester, alternating between _8.421 Atomic and Optical Physics I_ and [_8.422 Atomic and Optical Physics II_](/courses/8-422-atomic-and-optical-physics-ii-spring-2013/). Depending on when they matriculate, students begin with either 8.421 or 8.422. It is somewhat more logical to go from fundamental concepts to more advanced topics, but the reverse sequence also works well.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with rectangular tables and chairs arranged in tiered rows. A small brown table is positioned at the front of the room. It sits in front of two chalkboards.]({{< resource_file 2968b75a-29d4-0675-f9c3-e9cf634861d9 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in this classroom, which seats 64 students. The room featured moveable furniture tables and chairs in a tiered layout. A/V equipment was available.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
