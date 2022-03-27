@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 709789bc-2cca-6b96-898e-bb8ff3fe3216
 resourcetype: Document
 title: Atomic and Optical Physics II, Assignment 5
 uid: 9a71aa2b-2989-ce0d-138e-47ae82cf245d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ddf42a25-30e0-318e-06d0-b613ea709fa4
 resourcetype: Document
 title: Atomic and Optical Physics II, Midterm Exam[2012]
 uid: a4879bda-1282-2df0-8c67-c6163d18183e
