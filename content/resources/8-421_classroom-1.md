@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-421-atomic-and-optical-physics-i-spring-2014/2968b75a29d40675f9c3e9cf634861d9_8-421_classroom-1.jpg
+file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/2968b75a29d40675f9c3e9cf634861d9_8-421_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

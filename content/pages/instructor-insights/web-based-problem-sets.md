@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Professor Ketterle discusses the use of web-based problem
+  sets in 8.421.    '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

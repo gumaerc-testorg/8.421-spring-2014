@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this video, the professor reviewed dark state transfer and discussed about using AC electric fields to mix S and P states, electromagnetic induced transparency (EIT), Fano profile, two-photon absorption, and slow light.
 
 **Instructor:** Wolfgang Ketterle
+
+
+

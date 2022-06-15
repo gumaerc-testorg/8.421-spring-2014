@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the term paper assignments and
+  a list of possible topics for term papers.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
