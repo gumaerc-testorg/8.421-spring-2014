@@ -6,6 +6,7 @@ file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/a4879bda12822df08c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Atomic and Optical Physics II, Midterm Exam[2012]
 uid: a4879bda-1282-2df0-8c67-c6163d18183e
 ---
 This file contains the information regarding atomic and optical physics II, midterm exam[2012].
-

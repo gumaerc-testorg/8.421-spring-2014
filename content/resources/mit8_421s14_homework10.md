@@ -6,6 +6,7 @@ file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/990e4be207d2c073a2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Atomic and Optical Physics II, Assignment 10
 uid: 990e4be2-07d2-c073-a260-72da3602ec4d
 ---
 This resource contains the information regarding Atomic and Optical Physics II, Assignment 10.
-
