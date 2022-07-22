@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  main topics, requirements, grading, and the schedule of course topics and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a1e5e925-3b1e-ded1-1ca6-bab4233f8491
 ---
@@ -12,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/)
+[_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013)
 
 Main Topics
 -----------

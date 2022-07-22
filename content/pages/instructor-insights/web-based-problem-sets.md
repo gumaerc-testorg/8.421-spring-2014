@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: 'In this section, Professor Ketterle discusses the use of web-based problem
+  sets in 8.421.    '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7f9f52e3-47df-ea39-fbdb-3e5cae0c0d88
 title: Web-based Problem Sets
 uid: 79fb9e72-2b04-ec78-d986-abe3b39de4b3
