@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/7c6413c99a9917ca974830e658addb49_Y7UsD2SNIIw.srt
+file_size: 80504
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

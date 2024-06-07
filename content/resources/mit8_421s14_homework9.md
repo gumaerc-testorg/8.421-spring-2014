@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Atomic and Optical Physics
   II, Assignment 9.
 file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/59ccf08b92254db44ed723077cf38545_MIT8_421S14_homeWork9.pdf
+file_size: 619535
 file_type: application/pdf
 learning_resource_types:
 - Assignments

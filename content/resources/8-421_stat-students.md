@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/88f1692973a0cc775bdd0308b86b593e_8-421_stat-students.png
+file_size: 2798
 file_type: image/png
 image_metadata:
   caption: ''
