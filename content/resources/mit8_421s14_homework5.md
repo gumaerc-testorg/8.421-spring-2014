@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Atomic and Optical Physics
   II, Assignment 5.
-file: /ol-ocw-studio-app/courses/8-421-atomic-and-optical-physics-i-spring-2014/9a71aa2b2989ce0d138e47ae82cf245d_MIT8_421S14_homeWork5.pdf
+file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/9a71aa2b2989ce0d138e47ae82cf245d_MIT8_421S14_homeWork5.pdf
 file_size: 223269
 file_type: application/pdf
 learning_resource_types:
