@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding atomic and optical physics
   II, midterm exam[2012].
-file: /ol-ocw-studio-app/courses/8-421-atomic-and-optical-physics-i-spring-2014/a4879bda12822df08c67c6163d18183e_MIT8_421S14_midterm2012.pdf
+file: /courses/8-421-atomic-and-optical-physics-i-spring-2014/a4879bda12822df08c67c6163d18183e_MIT8_421S14_midterm2012.pdf
 file_size: 56077
 file_type: application/pdf
 learning_resource_types:
