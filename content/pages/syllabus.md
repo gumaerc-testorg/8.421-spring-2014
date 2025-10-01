@@ -39,7 +39,7 @@ Main Topics
 Requirements
 ------------
 
-There will be ten problem sets. Assignments will usually be due one week after they have been handed out. There will be no quiz or final exam, but a term paper at the end of the course. This will be a paper in the style of a publication in [Physical Review Letters](http://journals.aps.org/prl/) on a topic of mutual interest. The term paper and the homework have equal weight for the total grade. The term paper will be due on the day of the last class.
+There will be ten problem sets. Assignments will usually be due one week after they have been handed out. There will be no quiz or final exam, but a term paper at the end of the course. This will be a paper in the style of a publication in {{% resource_link "0a7c5873-8035-4cdc-a2ad-bd1ecce16669" "Physical Review Letters" %}} on a topic of mutual interest. The term paper and the homework have equal weight for the total grade. The term paper will be due on the day of the last class.
 
 Grading
 -------
